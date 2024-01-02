@@ -17,3 +17,9 @@ int main()
 
   return 0;
 }
+
+
+Output:
+Enter the number : 
+7
+Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 
