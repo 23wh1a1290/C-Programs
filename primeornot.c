@@ -18,3 +18,10 @@ if(count==0)
 printf("Number is a prime");     
 return 0;
 }
+
+
+Output:
+
+Enter the number : 
+7
+Number is a prime
