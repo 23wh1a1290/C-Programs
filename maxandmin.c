@@ -24,3 +24,12 @@ int main()
 
     return 0;
 }
+
+
+
+Output:
+Enter three numbers: 
+30
+54
+12
+Maximum among all three numbers = 54
