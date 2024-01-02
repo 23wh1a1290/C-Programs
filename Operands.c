@@ -27,3 +27,12 @@ char operator;
   }
     return 0;
 }
+
+
+Output:
+Enter an operator (+, -, *, /): 
+/
+Enter two operands: 
+40
+7
+40.0 / 7.0 = 5.7
