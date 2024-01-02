@@ -11,3 +11,10 @@ int main() {
   printf("\nSimple Interest : %d", si); 
   return(0); 
 }
+
+Output:
+
+Enter Principal Amount : 2500
+Enter Rate of Interest : 15
+Enter Period of Time  : 2
+Simple Interest : 750
