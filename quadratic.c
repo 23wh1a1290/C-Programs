@@ -22,3 +22,11 @@ float a,b,c,r1,r2,d;
     
   return 0;
 }
+
+Output:
+
+Enter the values of a b c: 
+5
+6
+9
+Roots are imaginary
