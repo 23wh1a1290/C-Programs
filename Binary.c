@@ -19,3 +19,9 @@ int main()
 printf("%d in binary format is %ld\n",num,bin);
     return 0;
 }
+
+
+Output:
+Enter the number between 0 and 255 
+6
+6 in binary format is 110
