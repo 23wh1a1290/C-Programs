@@ -13,3 +13,14 @@ int main()
  printf("Compound interest is: %f\n",ci); 
  return 0; 
 }
+
+
+
+Output:
+Enter principal: 
+3000
+Enter rate: 
+10
+Enter time in years: 
+2
+Compound interest is: 630.000183
