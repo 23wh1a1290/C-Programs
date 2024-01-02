@@ -21,3 +21,8 @@ int main()
     }  
 return 0;
 }
+
+
+Output:
+Enter The Number:23432
+23432 is a Palindrome Number
